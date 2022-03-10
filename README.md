@@ -4,7 +4,7 @@ A partir da utilização de dados estruturados será realizada a classificação
 
 Dessa forma, para realização desta tarefa, escolheu-se cinco datasets diversos do repositório [Mulan: A Java Library for Multi-Label Learning](http://mulan.sourceforge.net/datasets-mlc.html), sendo eles:
 
-1. ⋅Yeast Dataset
+1. Yeast Dataset
 2. Emotions Dataset
 3. Genbase Dataset
 4. Flags Dataset
