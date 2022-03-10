@@ -1,5 +1,20 @@
 # Avaliação Experimental Comparativa da Robustez de Algoritmos de Classificação Multirrótulo
 
+A partir da utilização de dados estruturados será realizada a classificação multirrótulo para comparação de três algoritmos que já têm implementação pronta, uma ou seja, uma avaliação experimental comparativa da robustez dos algoritmos escolhidos.
+
+Dessa forma, para realização desta tarefa, escolheu-se cinco datasets diversos do repositório [Mulan: A Java Library for Multi-Label Learning](http://mulan.sourceforge.net/datasets-mlc.html), sendo eles:
+
+⋅⋅* Yeast Dataset
+⋅⋅* Emotions Dataset
+⋅⋅* Genbase Dataset
+⋅⋅* Flags Dataset
+⋅⋅* Birds Dataset
+
+Para resolução dessa problemática, abordamos 3 algoritimos de classificação: Binary Relevance - combinando 3 classificadores de rótulo para cada classificação multirrótulo, sendo eles Random Forest, Decision Tree e GaussianNB - , Classifier Chains e Label Powerset.
+
+Assim sendo, serão apresentados os códigos, bem como as descrições das funções e resultados obtidos. Ademais, apresentam-se, também, as interpretações e documentações do problema.
+
+Link para a apresentação: (INSERIR)
 
 # Colab: 
 https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sharing
@@ -7,7 +22,6 @@ https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sh
 # NB viewer: 
 https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabalho2_AM_Clustering.ipynb
 (trocar link)
-
 
 # Assista à nossa apresentação à seguir: 
 
