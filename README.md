@@ -10,7 +10,7 @@ Dessa forma, para realização desta tarefa, escolheu-se cinco datasets diversos
 * Flags Dataset
 * Birds Dataset
 
-Para resolução dessa problemática, abordamos 3 algoritimos de classificação: Binary Relevance - combinando 3 classificadores de rótulo para cada classificação multirrótulo, sendo eles Random Forest, Decision Tree e GaussianNB - , Classifier Chains e Label Powerset.
+Para resolução dessa problemática, abordamos 3 algoritimos de classificação: Binary Relevance, Classifier Chains e Label Powerset. Além disso, combinando-os com 2 classificadores de rótulo para cada classificação multirrótulo, sendo eles Random Forest e Decision Tree.
 
 Assim sendo, serão apresentados os códigos, bem como as descrições das funções e resultados obtidos. Ademais, apresentam-se, também, as interpretações e documentações do problema.
 
