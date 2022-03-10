@@ -14,8 +14,6 @@ Para resolução dessa problemática, abordamos 3 algoritimos de classificação
 
 Assim sendo, serão apresentados os códigos, bem como as descrições das funções e resultados obtidos. Ademais, apresentam-se, também, as interpretações e documentações do problema.
 
-Link para a apresentação: (INSERIR)
-
 ### Colab: 
 https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sharing
 (trocar link)
