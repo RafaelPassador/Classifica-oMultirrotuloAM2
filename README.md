@@ -4,11 +4,11 @@ A partir da utilização de dados estruturados será realizada a classificação
 
 Dessa forma, para realização desta tarefa, escolheu-se cinco datasets diversos do repositório [Mulan: A Java Library for Multi-Label Learning](http://mulan.sourceforge.net/datasets-mlc.html), sendo eles:
 
-⋅⋅* Yeast Dataset
-⋅⋅* Emotions Dataset
-⋅⋅* Genbase Dataset
-⋅⋅* Flags Dataset
-⋅⋅* Birds Dataset
+1. ⋅Yeast Dataset
+2. Emotions Dataset
+3. Genbase Dataset
+4. Flags Dataset
+5. Birds Dataset
 
 Para resolução dessa problemática, abordamos 3 algoritimos de classificação: Binary Relevance - combinando 3 classificadores de rótulo para cada classificação multirrótulo, sendo eles Random Forest, Decision Tree e GaussianNB - , Classifier Chains e Label Powerset.
 
