@@ -3,9 +3,10 @@
 
 ### Colab: 
 https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sharing
-
+(trocar link)
 ### NB viewer: 
 https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabalho2_AM_Clustering.ipynb
+(trocar link)
 
 
 ### Assista à nossa apresentação à seguir: 
