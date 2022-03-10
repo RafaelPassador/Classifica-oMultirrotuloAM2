@@ -28,9 +28,9 @@ https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabal
 [<img src="https://img.youtube.com/vi/7bfNvzpduKY/maxresdefault.jpg" width="80%">](https://youtu.be/7bfNvzpduKY)
 
 ### Equipe:
-Júlia Aparecida Sousa de Oliveira    - RA: 769707 
-Igor Teixeira Machado                - RA: 769708
-Rafael Vinicius Polato Passador      - RA: 790036 
+* Júlia Aparecida Sousa de Oliveira    - RA: 769707 
+* Igor Teixeira Machado                - RA: 769708
+* Rafael Vinicius Polato Passador      - RA: 790036 
 
 ### Professor:
 Prof. Dr. Diego Furtado Silva
