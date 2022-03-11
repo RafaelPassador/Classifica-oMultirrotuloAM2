@@ -18,7 +18,7 @@ Assim sendo, serão apresentados os códigos, bem como as descrições das funç
 https://colab.research.google.com/drive/1RNjrnGwmJZjLeC0FZ2GB6kknBoN7rn4C?usp=sharing
 
 ### NB viewer: 
-
+https://nbviewer.org/github/RafaelPassador/MultilabelClassification_AM2/blob/main/MultilabelClassification_Am2.ipynb
 
 ### Assista à nossa apresentação à seguir: 
 
