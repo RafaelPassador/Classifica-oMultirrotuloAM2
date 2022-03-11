@@ -10,16 +10,15 @@ Dessa forma, para realização desta tarefa, escolheu-se cinco datasets diversos
 * Flags Dataset
 * Birds Dataset
 
-Para resolução dessa problemática, abordamos 3 algoritimos de classificação: Binary Relevance, Classifier Chains e Label Powerset. Além disso, combinando-os com 2 classificadores de rótulo para cada classificação multirrótulo, sendo eles Random Forest e Decision Tree.
+Para resolução dessa problemática, abordamos 3 algoritimos de classificação: Binary Relevance, Classifier Chains e Label Powerset. Além disso, combinando-os com 2 classificadores de rótulo para cada classificação multirrótulo, sendo eles Random Forest e Decision Tree. Como métricas avaliativas, foram utilizados os valores de precisão, revocação, recall e haming loss.
 
 Assim sendo, serão apresentados os códigos, bem como as descrições das funções e resultados obtidos. Ademais, apresentam-se, também, as interpretações e documentações do problema.
 
 ### Colab: 
-https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sharing
-(trocar link)
+https://colab.research.google.com/drive/1RNjrnGwmJZjLeC0FZ2GB6kknBoN7rn4C?usp=sharing
+
 ### NB viewer: 
-https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabalho2_AM_Clustering.ipynb
-(trocar link)
+
 
 ### Assista à nossa apresentação à seguir: 
 
