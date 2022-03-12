@@ -22,7 +22,7 @@ https://nbviewer.org/github/RafaelPassador/MultilabelClassification_AM2/blob/mai
 
 ### Assista à nossa apresentação à seguir: 
 
-[<img src="https://img.youtube.com/vi/7bfNvzpduKY/maxresdefault.jpg" width="80%">](https://youtu.be/7bfNvzpduKY)
+https://drive.google.com/file/d/1Ww2G84pR8rUvPyfrEQUy2vb6WOBcEjvg/view?usp=sharing
 
 ### Equipe:
 * Júlia Aparecida Sousa de Oliveira    - RA: 769707 
